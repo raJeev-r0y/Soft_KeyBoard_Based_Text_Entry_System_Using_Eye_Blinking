@@ -23,5 +23,8 @@
 <p>Software Architecture👆</p><br>
 
 ![image alt](https://github.com/raJeev-r0y/Soft_KeyBoard_Based_Text_Entry_System_Using_Eye_Blinking/blob/main/pictures/System%20architecture.png)
-<p>System Architecture👆</p><br>
+<p>System Architecture👆</p>
+<hr>
+<h2>Let's see a screenshot of what the app's interface looks like 👀 </h2>
 
+![image alt](https://github.com/raJeev-r0y/Soft_KeyBoard_Based_Text_Entry_System_Using_Eye_Blinking/blob/main/pictures/ui%20of%20the%20app.jpg)
